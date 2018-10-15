@@ -1,7 +1,25 @@
 <world>
-    <continet name="slavia">
-    </continet>
-    <continet name="hvatelia">
-
+    <continet name="The Balklands">
+        <country name="Šumadija">
+           <Sector Name="The Northern Cities">
+                <state name="Belgrade">
+                     <city name="Belgrade">
+                <state name="Kolubara">
+                     <city name="Valjevo">
+                <state name="Mačva">
+                     <city name="Šabac">
+                <state name="Moravica">
+                     <city name="Čačak">
+                <State name="Pomoravlje">
+                     <city name="Jagodina">
+                <state name="Rasina">
+                     <city name="Kruševac">
+                <state name="Raška">
+                     <city name="Kraljevo">
+                <state name="Šumadija">
+                     <city name="Kragujevac">
+                <state name="Zlatibor">
+        
+        
 
 </world>
