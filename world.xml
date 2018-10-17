@@ -1,25 +1,182 @@
 <world>
-    <continet name="The Balklands">
-        <country name="Šumadija">
-           <Sector Name="The Northern Cities">
-                <state name="Belgrade">
+     <continet name="The Balklands">
+         <country name="Šumadija">
+             <district Name="Capital">
+                 <state name="Belgrade">
                      <city name="Belgrade">
-                <state name="Kolubara">
-                     <city name="Valjevo">
-                <state name="Mačva">
+                     </city>
+                 </state>
+             </district>
+             <district name="1-Farming District">
+                 <state name="Kolubara">
+                     <city name="Valjevo"> 
+                     </city>
+                     <city name="Ub">
+                     </city>
+                     <city name="Lajkovac">
+                     </city>
+                     <city name="Mionica">
+                     </city>
+                     <city name="Ljig">
+                     </city>
+                     <city name="Osečina">
+                     </city>
+                     </state>
+                 <state name="Mačva">
                      <city name="Šabac">
-                <state name="Moravica">
+                     </city>
+                     <city name="Bogatić">
+                     </city>
+                     <city name="Loznica">
+                     </city>
+                     <city name="Vladimirci">
+                     </city>
+                     <city name="Koceljeva">
+                     </city>
+                     <city name="Mali Zovrnik">
+                     </city>
+                     <city name="Krupanj">
+                     </city>
+                     <city name="Ljubovija">
+                     </city>
+                 </state>
+             </district>
+             <district name="2-Mine District">
+                 <state name="Moravica">
                      <city name="Čačak">
-                <State name="Pomoravlje">
+                     </city>
+                     <city name="Gornji Milanovac">
+                     </city>
+                     <city name="Ivanjica">
+                     </city>
+                     <city name="Lučani">
+                     </city>
+                 </state>
+                 <State name="Pomoravlje">
                      <city name="Jagodina">
-                <state name="Rasina">
+                     </city>
+                     <city name="Svilajnac">
+                     </city>
+                     <city name="Despotovac">
+                     </city>
+                     <city name="Rekovac">
+                     </city>
+                     <city name="Ćuprija">
+                     </city>
+                     <city name="Paraćin">
+                     </city>
+                     </state>
+                 <state name="Rasina">
                      <city name="Kruševac">
-                <state name="Raška">
+                     </city>
+                     <city name="Varvarin">
+                     </city>
+                     <city name="Trstenik">
+                     </city>
+                     <city name="Aleksandrovac">
+                     </city>
+                     <city name="Brus">
+                     </city>
+                     <city name="Ćićevac">
+                     </city>
+                 </state>
+             </district>
+             <District name="3-Fishing district">
+                 <state name="Raška">
                      <city name="Kraljevo">
-                <state name="Šumadija">
+                     </city>
+                     <city name="Novi Pazar">
+                     </city>
+                     <city name="Tutin">
+                     </city>
+                     <city name="Vrnjačka Banja">
+                     </city>
+                     <city name="Raška">
+                     </city>
+                 </state>
+             </district>
+             <district name="4-Military District">
+                 <state name="Šumadija">
                      <city name="Kragujevac">
-                <state name="Zlatibor">
-        
-        
+                     </city>
+                     <city name="Topola">
+                     </city>
+                     <city name="Lapovo">
+                     </city>
+                     <city name="Aranđelovac">
+                     </city>
+                     <city name="Rača">
+                     </city>
+                     <city name="Batočina">
+                     </city>
+                     <city name="Knić">
+                     </city>
+                 </state>
+                 <state name="Zlatibor">
+                     <city name="Arilje">
+                     </city>
+                     <city name="Prijepolje">
+                     </city>
+                     <city name="Sjenica">
+                     </city>
+                     <city name="Priboj">
+                     </city>
+                     <city name="Bajina Bašta">
+                     </city>
+                     <city name="Kosjerić">
+                     </city>
+                     <city name="Užice">
+                     </city>
+                     <city name="Požega">
+                     </city>
+                     <city name="Čajetina">
+                     </city>
+                     <city name="Nova Varoš">
+                     </city>
+                 </state>
+             </district>
+        <country name="Velike države Hrvatske">
+            <district name="">
+                 <state name="Bejovar-Bilogora">
+                     <city name="">
+                 <state name="Brod-Posavina">
+                     <city name="Dubrovnik-Neretva">
+                 <state name="">
+                     <city name="">
+                 <state name="Istria">
+                     <city name="Karlovac">
+                 <state name="Koprivnica-Križevci">
+                     <city name="">
+                 <state name="Krapina-Zagorje">
+                     <city name="">
+                 <state name="Lika-Senj">
+                     <city name="">
+                 <state name="Međimurje">
+                     <city name="">
+                 <state name="Osijek-Baranja">
+                     <city name="">
+                 <state name="Požega-Slavonia">
+                     <city name="">
+                 <state name="Primorje-Gorski Kotar">
+                     <city name="">
+                 <state name="Šibenik-Knin">
+                     <city name="">
+                 <state name="Sisak-Moslavina">
+                     <city name="">
+                 <state name="Split-Dalmatia">
+                     <city name="">
+                 <state name="Varaždin">
+                     <city name="">
+                 <state name="Virovitica-Podravina">
+                     <city name="">
+                 <state name="Vukovar-Srijem">
+                     <city name="">
+                 <state name="Zadar">
+                     <city name="">
+                 <state name="Zagreb, Subarb">
+                     <city name="Zagreb, Urban">
+                 <state name="">
+            
+
 
 </world>
