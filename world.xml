@@ -1,4 +1,4 @@
-<world>
+     <world>
      <continet name="The Balklands">
          <country name="Šumadija">
              <district Name="Capital">
@@ -138,7 +138,11 @@
         <country name="Velike države Hrvatske">
             <district name="">
                  <state name="Bejovar-Bilogora">
-                     <city name="">
+                     <city name="Bjelovar">
+                     <city name="Čazma">
+                     <city name="Daruvar">
+                     <city name="Garešnica">
+                     <city name="Grubišno Polje">                     
                  <state name="Brod-Posavina">
                      <city name="Dubrovnik-Neretva">
                  <state name="">
