@@ -1,13 +1,13 @@
-     <world>
-     <continet name="The Balklands">
+ <world>
+     <continent name="The Balklands">
          <country name="Šumadija">
-             <district Name="Capital">
+             <Reigon Name="Capital">
                  <state name="Belgrade">
                      <city name="Belgrade">
                      </city>
                  </state>
-             </district>
-             <district name="1-Farming District">
+             </reigon>
+             <reigon name="1-Farming District">
                  <state name="Kolubara">
                      <city name="Valjevo"> 
                      </city>
@@ -40,8 +40,8 @@
                      <city name="Ljubovija">
                      </city>
                  </state>
-             </district>
-             <district name="2-Mine District">
+             </reigon>
+             <reigon name="2-Mine District">
                  <state name="Moravica">
                      <city name="Čačak">
                      </city>
@@ -65,7 +65,7 @@
                      </city>
                      <city name="Paraćin">
                      </city>
-                     </state>
+                 </state>
                  <state name="Rasina">
                      <city name="Kruševac">
                      </city>
@@ -80,8 +80,8 @@
                      <city name="Ćićevac">
                      </city>
                  </state>
-             </district>
-             <District name="3-Fishing district">
+             </reigon>
+             <reigon name="3-Fishing district">
                  <state name="Raška">
                      <city name="Kraljevo">
                      </city>
@@ -94,8 +94,8 @@
                      <city name="Raška">
                      </city>
                  </state>
-             </district>
-             <district name="4-Military District">
+             </reigon>
+             <reigon name="4-Military District">
                  <state name="Šumadija">
                      <city name="Kragujevac">
                      </city>
@@ -134,53 +134,326 @@
                      <city name="Nova Varoš">
                      </city>
                  </state>
-             </district>
-        <country name="Velike države Hrvatske">
-            <district name="">
+             </reigon>
+         <country name="Velike države Hrvatske">
+             <reigon name="">
                  <state name="Bejovar-Bilogora">
                      <city name="Bjelovar">
+                     </city>
                      <city name="Čazma">
+                     </city>
                      <city name="Daruvar">
+                     </city>
                      <city name="Garešnica">
-                     <city name="Grubišno Polje">                     
+                     </city>
+                     <city name="Grubišno Polje">         
+                     </city>            
                  <state name="Brod-Posavina">
                      <city name="Dubrovnik-Neretva">
+                     </city>
+                 </state>
                  <state name="">
                      <city name="">
+                     </city>
+                 </state>
                  <state name="Istria">
                      <city name="Karlovac">
+                     </city>
+                 </state>                                  
                  <state name="Koprivnica-Križevci">
-                     <city name="">
+                 </state>   
                  <state name="Krapina-Zagorje">
-                     <city name="">
+                 </state>   
                  <state name="Lika-Senj">
-                     <city name="">
+                 </state>  
                  <state name="Međimurje">
-                     <city name="">
+                 </state>   
                  <state name="Osijek-Baranja">
-                     <city name="">
+                 </state>   
                  <state name="Požega-Slavonia">
-                     <city name="">
+                 </state>
                  <state name="Primorje-Gorski Kotar">
-                     <city name="">
+                 </state>  
                  <state name="Šibenik-Knin">
-                     <city name="">
+                 </state>   
                  <state name="Sisak-Moslavina">
-                     <city name="">
+                 </state>   
                  <state name="Split-Dalmatia">
-                     <city name="">
+                 </state> 
                  <state name="Varaždin">
-                     <city name="">
+                 </state> 
                  <state name="Virovitica-Podravina">
-                     <city name="">
+                 </state>
                  <state name="Vukovar-Srijem">
-                     <city name="">
+                 </state>
                  <state name="Zadar">
-                     <city name="">
+                 </state>
                  <state name="Zagreb, Subarb">
                      <city name="Zagreb, Urban">
+                     </city>
+                </state>        
+         <country name="bosnia Herzegovina">
+             <reigon name="">
                  <state name="">
-            
-
+                 </state>        
+         <country name="Slovenia">
+             <reigon name="">
+                 <state name"">
+                 </state>        
+         </country>
+     </continent>            
+     <continent name="North america">
+         <Country name="The United states of America">
+             <reigon name="The East Coast">
+                 <state name="Maine">
+                     <city name="Augusta">
+                     </city>
+                 </state>
+                 <state name="New Hampshire">
+                     <city name="Concord">
+                     </city>
+                 </state>
+                 <state name="Massachusetts">
+                     <city name="Boston">
+                     </city>
+                 </state>
+                 <state name="Rhode Island">
+                     <city name="Providence">
+                     </city>
+                 </state>
+                 <state name="Connecticut">
+                     <city name="">
+                     </city>
+                 </state>
+                 <state name="New York">
+                     <city name="New York">
+                         <district name="Manhattan">
+                         </district>
+                         <district name="Brooklyn">
+                         </district>
+                         <district name="Queens">
+                         </district>
+                         <district name="The Bronx">
+                         </district>
+                         <district name="staten Island">
+                         </district>
+                     </city>
+                 </state>
+                 <state name="New Jersey">
+                     <city name="Trenton">
+                     </city>
+                 </state>
+                 <state name="Delaware">
+                     <city name="Dover">
+                     </city>
+                 </state>
+                 <state name="Maryland">
+                     <city name="Annapolis">
+                     </city>
+                 </state>
+                 <state name="Virginia">
+                     <city name="Richmond">
+                     </city>
+                 </state>
+                 <state name="North Carolina">
+                     <city name="Raleigh">
+                     </city>
+                 </state>
+                 <state name="South Carolina">
+                     <city name="Columbia">
+                     </city>
+                 </state>
+                 <state name="Georgia">
+                     <city name="Atlantia">
+                     </city>
+                 </state>
+                 <state name="Florida">
+                     <city name="Tampa">
+                     </city>
+                 </state>
+             <reigon name="Midwest">
+                 <state name="Illinois">
+                     <city name="Chicago">
+                     </city>
+                 </state>
+                 <state name="Iowa">
+                     <city name="Des Moines">
+                     </city>
+                 </state>
+                 <state name="Kansas">
+                     <city name="Topeka">
+                     </city>
+                 </state>
+                 <state name="Missouri">
+                     <city name="Jefferson">
+                     </city>
+                 </state>
+                 <state name="North Dakota">
+                     <city name="Bismarck">
+                     </city>
+                 </state>
+                 <state name="South Dakota">
+                     <city name="Pierre">
+                     </city>
+                 </state>
+                 <state name="Nebraska">
+                     <city name="Lincoln">
+                     </city>
+                 </state>
+                 <state name="Wisconsin">
+                     <city name="Milwaukee">
+                     </city>
+                 </state>
+                 <state name="Michigan">
+                     <city name="Lansing">
+                     </city>
+                 </state>
+                 <state name="Ohio">
+                     <city name="Columbus">
+                     </city>
+                 </state>
+                 <state name="Indiana">
+                     <city name="Indanoplis">
+                     </city>
+                 </state>
+                 <state name="Minnesota">
+                     <city name="Saint Paul">
+                     </city>
+                 </state>
+             <reigon name="Deep South">
+                 <state name="Alabama">
+                     <city name="Montgomery">
+                     </city>
+                 </state>
+                 <state name="Louisiana">
+                     <city name="New Orleans">
+                     </city>
+                 </state>
+                 <state name="Arkansas">
+                     <city name="Little Rock">
+                     </city>
+                 </state>
+                 <state name="Mississippi">
+                     <city name="Jackson">
+                     </city>
+                 </state>
+                 <state name="Kentucky">
+                     <city name="louisville">
+                     </city>
+                </state>
+                 <state name="Tennessee">
+                     <city name="Nashville">
+                     </city>
+                 </state>
+             <reigon name="West Coast">
+                 <state name="Montana">
+                     <city name="Helena">
+                     </city>
+                 </state>
+                 <state name="Idaho">
+                     <city name="Boise">
+                     </city>
+                 </state>
+                 <state name="Wyoming">
+                     <city name="Cheyenne">
+                     </city>
+                 </state>
+                 <state name="Colorado">
+                     <city name="Denver">
+                     </city>
+                 </state>
+                 <state name="Utah">
+                     <city name="Salt Lake City">
+                     </city>
+                 </state>
+                 <state name="New Mexico">
+                     <city name="Santa Fe">
+                     </city>
+                 </state>
+                 <state name="Arizona">
+                     <city name="Phoenix">
+                     </city>
+                 </state>
+                 <state name="Nevada">
+                     <city name="Carson City">
+                     </city>
+                 </state>
+                 <state name="Washington">
+                     <city name="Olmypia">
+                     </city>
+                 </state>
+                 <state name="Oregon">
+                     <city name="Salem">
+                     </city>
+                 </state>
+                 <state name="California">
+                     <city name="Los Angles">
+                     </city>
+                 </state>
+                 <state name="Alaska">
+                     <city name="Jeneau">
+                     </city>
+                 </state>
+                 <state name="Hawaii">
+                     <city name="Honolulu">
+                     </city>
+                 </state>
+         <country name="Canadia">         
+             <reigon name="The Atlantic Reigon">
+                 <state name="Newfoundland and Labrador">
+                 </state>
+                 <state name="Prince Edward Island">
+                 </state>
+                 <state name="Nova Scotia">
+                 </state>
+                 <state name="New Brunswick">
+                 </state>
+             <reigon name="Central Canada">
+                 <state name="Quebec">
+                 </state>
+                 <state name="Ontario">
+                 </state>
+             <reigon name="The Prairie Provinces">
+                 <state name="Manitoba">
+                 </state>
+                 <state name="Saskatchewan">
+                 </state>
+                 <state name="Alberta">
+                 </state>
+             <reigon name="The West Coast">
+                 <state name="British Columbia">
+                 </state>
+             <reigon name="The North">
+                 <state name="Nunavut">
+                 </state>
+                 <state name="Northwest Territories">
+                 </state>
+                 <state name="Yukon Territory">
+                 </state>
+         </country>
+     </continent>
+     <Continent name="Main Europe">
+         <country name="Germany">
+         </country>
+         <country name="France">
+         </country>
+         <country name="Spain">
+         </country>
+         <country name="Italy">
+         </country>
+         <country name="Switzerland">
+         </country>
+         <country name="Belgium">
+         </country>
+         <country name="Netherlands">
+         </country>
+         <country name="Iceland">
+         </country>
+         <country name="Denmark">
+         </country>
+         <country name="The United Kingdom">
+         </country>
+        
+     
 
 </world>
