@@ -207,22 +207,70 @@
              <reigon name="The East Coast">
                  <state name="Maine">
                      <city name="Augusta">
+                         <district name="04330">
+                         </district>
+                         <district name="04332">
+                         </district>
+                         <district name="04333">
+                         </district>
+                         <district name="04336">
+                         </district>
+                         <district name="04338">
+                         </district>
                      </city>
                  </state>
                  <state name="New Hampshire">
                      <city name="Concord">
+                         <district name="03301">
+                         </district>
+                         <district name="03302">
+                         </district>
+                         <district name="03303">
+                         </district>
+                         <district name="03305">
+                         </district>
                      </city>
                  </state>
                  <state name="Massachusetts">
-                     <city name="Boston">
+                         <city name="Boston">
+                         <district name="02101">
+                         </district>
+                         <disrict name="02111">
+                         </district>
+                         <district name="02115">
+                         </district>
+                         <district name="02119">
+                         </district>
+                         <district name="02123">
+                         </district>
                      </city>
                  </state>
                  <state name="Rhode Island">
                      <city name="Providence">
+                         <district name="02860">
+                         </district>
+                         <disrict name="02902">
+                         </district>
+                         <district name="02904">
+                         </district>
+                         <district name="02906">
+                         </district>
+                         <district name="02908">
+                         </district>
                      </city>
                  </state>
                  <state name="Connecticut">
-                     <city name="">
+                     <city name="Hartford">
+                         <district name="06101">
+                         </district>
+                         <disrict name="06105">
+                         </district>
+                         <district name="06114">
+                         </district>
+                         <district name="06126">
+                         </district>
+                         <district name="06141">
+                         </district>
                      </city>
                  </state>
                  <state name="New York">
@@ -241,34 +289,114 @@
                  </state>
                  <state name="New Jersey">
                      <city name="Trenton">
+                         <district name="0806">
+                         </district>
+                         <district name="0801">
+                         </district>
+                         <district name="08067">
+                         </district>
+                         <district name="08610">
+                         </district>
+                         <district name="08625">
+                         </district>
                      </city>
                  </state>
                  <state name="Delaware">
                      <city name="Dover">
+                         <district name="19901">
+                         </district>
+                         <ditsrict name="19902">
+                         </district>
+                         <district name="19903">
+                         </district>
+                         <district name="19904">
+                         </district>
+                         <district name="19905">
+                         </district>
                      </city>
                  </state>
                  <state name="Maryland">
                      <city name="Annapolis">
+                         <district name="21401">
+                         </district>
+                         <district name="21402">
+                         </district>
+                         <district name="21403">
+                         </district>
+                         <district name="21404">
+                         </district>
+                         <district name="21411">
+                         </district>
                      </city>
                  </state>
                  <state name="Virginia">
                      <city name="Richmond">
+                         <district name="23173">
+                         </district>
+                         <district name="23221">
+                         </district>
+                         <district name="23225">
+                         </district>
+                         <district name="23232">
+                         </district>
+                         <district name="23241">
+                         </district>
                      </city>
                  </state>
                  <state name="North Carolina">
                      <city name="Raleigh">
+                         <district name="27513">
+                         </district>
+                         <district name="27602">
+                         </district>
+                         <district name="27606">
+                         </district>
+                         <district name="27610">
+                         </district>
+                         <district name="27614">
+                         </district>
                      </city>
                  </state>
                  <state name="South Carolina">
                      <city name="Columbia">
+                          <district name="290044">
+                         </district>
+                         <district name="29078">
+                         </district>
+                         <district name="29202">
+                         </district>
+                         <district name="29206">
+                         </district>
+                         <district name="29210">
+                         </district>
                      </city>
                  </state>
                  <state name="Georgia">
-                     <city name="Atlantia">
+                     <city name="Atlanta">
+                         <district name="30301">
+                         </district>
+                         <district name="30305">
+                         </district>
+                         <district name="30309">
+                         </district>
+                         <district name="30313">
+                         </district>
+                         <district name="30317">
+                         </district>
                      </city>
                  </state>
                  <state name="Florida">
                      <city name="Tampa">
+                          <district name="33601">
+                         </district>
+                         <district name="33605">
+                         </district>
+                         <district name="33609">
+                         </district>
+                         <district name="33613">
+                         </district>
+                         <district name="33617">
+                         </district>
                      </city>
                  </state>
              <reigon name="Midwest">
@@ -434,25 +562,66 @@
      </continent>
      <Continent name="Main Europe">
          <country name="Germany">
+                  <state name="Berlin">
+                     <city name="Berlin">
+                     </city>
+                 </state>     
          </country>
          <country name="France">
+                 <state name="">
+                     <city name="Paris">
+                     </city>
+                 </state>
          </country>
          <country name="Spain">
+                 <state name="Madrid">
+                     <city name="Community of Madrid">
+                     </city>
+                 </state>     
          </country>
          <country name="Italy">
+                  <state name="Rome">
+                     <city name="Rome">
+                     </city>
+                 </state>     
          </country>
          <country name="Switzerland">
+                  <state name="Switzerland">
+                     <city name="Bern">
+                     </city>
+                 </state>     
          </country>
          <country name="Belgium">
+                  <state name="Belgium">
+                     <city name="Brussels">
+                     </city>
+                 </state>     
          </country>
          <country name="Netherlands">
+                  <state name="South Holland">
+                     <city name="The Hague">
+                     </city>
+                 </state>     
          </country>
          <country name="Iceland">
+                  <state name="Reykavik">
+                     <city name="Reykjavik">
+                     </city>
+                 </state>     
          </country>
          <country name="Denmark">
+                  <state name="Øresund">
+                     <city name="Copenhagen">
+                     </city>
+                 </state>     
          </country>
          <country name="The United Kingdom">
+                  <state name="England">
+                     <city name="London">
+                     </city>
+                 </state>     
          </country>
+     <continent>
         
      
 
